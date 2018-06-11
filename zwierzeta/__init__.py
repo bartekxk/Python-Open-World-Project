@@ -1,0 +1,1 @@
+from Zwierze import Zwierze
